@@ -1,1 +1,2 @@
 What I do is learning Git.
+I make some changes after commit.
